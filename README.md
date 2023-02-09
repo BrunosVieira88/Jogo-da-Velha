@@ -9,10 +9,10 @@ jogo da velha onde o jogador   O
 <img src="img/jogador0.JPG" >
 
 joga contra o jogador X 
-<img src="img/jogadorx.JPG.JPG" >
+<img src="img/jogadorx.JPG" >
 
 Caso haja vitoria 
-<img src="img/vencedor.JPG.JPG.JPG" >
+<img src="img/vencedor.JPG" >
 
 Caso empate 
-<img src="img/velha.JPG.JPG.JPG" >
+<img src="img/velha.JPG" >
